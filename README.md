@@ -1,4 +1,4 @@
-# discord.jsv13-handlers
+# Discord.JS v13 Handlers
 ## How to use?
 
 ### Step 1: Run this command
